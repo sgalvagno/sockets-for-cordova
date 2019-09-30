@@ -1,0 +1,19 @@
+{
+  "name": "sockets-for-cordova",
+  "version": "1.1.1",
+  "description": "Cordova plugin for socket network communication forked from https://github.com/blocshop/sockets-for-cordova",
+  "cordova": {
+    "id": "sockets-for-cordova",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "author": "Sebastien Galvagno",
+  "license": "Apache 2.0"
+}
